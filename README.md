@@ -1,6 +1,6 @@
 ### Hi, I'm Eleazar 💻
 
-<img align="right" alt="GIF" src="https://github.com/EleazarBT/EleazarBT/blob/main/img/animation_500_l75nd29b.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://github.com/EleazarBT/EleazarBT/blob/main/img/99312-developer-skills.gif" width="300px"/>
 
 <br>
   

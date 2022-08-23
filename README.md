@@ -29,6 +29,9 @@
 
 <br>
 
+### ✔ Github Profile Stats:
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eleazar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EleazarBT&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eleazar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleazarBT&langs_count=8&layout=compact&theme=github_dark&hide=Jupyter%20Notebook" height="192px"/></a>
 
 
-[![eleazar's github stats](https://github-readme-stats.vercel.app/api?username=EleazarBT&show_icons=true&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eleazar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=EleazarBt&bg_color=0D1117&color=ffffff&line=F85D7F&point=FFFFFF&hide_border=true" /></a>

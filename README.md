@@ -12,7 +12,7 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eleazar-braco-terry-1b043b1ab/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com)
       
-   ![](https://komarev.com/ghpvc/?username=EleazarBT&color=blue)
+
 <br>
 
 ### 🔨 Languages and Tools:
@@ -56,3 +56,6 @@
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eleazar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=EleazarBt&bg_color=0D1117&color=ffffff&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+![](https://komarev.com/ghpvc/?username=EleazarBT&color=blue&style=for-the-badge)

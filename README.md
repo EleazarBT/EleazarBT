@@ -44,7 +44,7 @@
 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height ="30px" src="https://raw.githubusercontent.com/EleazarBT/EleazarBT/main/img/icons/Git_icon.svg"> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Figma" height ="30px" src="https://raw.githubusercontent.com/EleazarBT/EleazarBT/main/img/icons/figma.svg"> </a>
-</div><br><br><br>
+</div><br><br>
 
 
 <br>

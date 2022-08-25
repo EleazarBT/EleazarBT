@@ -46,7 +46,7 @@
 
 
 <br>
-
+<br>
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eleazar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EleazarBT&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" height="192px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eleazar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleazarBT&langs_count=8&layout=compact&theme=github_dark&hide=Jupyter%20Notebook&hide_border=true" height="192px"/></a> | 

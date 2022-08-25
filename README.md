@@ -11,9 +11,9 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/EleazarBT?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eleazar-braco-terry-1b043b1ab/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com)
-      &nbsp; ![](https://komarev.com/ghpvc/?username=EleazarBT&color=blue)
-
-
+      
+<br>
+![](https://komarev.com/ghpvc/?username=EleazarBT&color=blue)
 <br>
 
 ### 🔨 Languages and Tools:

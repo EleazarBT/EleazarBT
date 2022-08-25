@@ -15,8 +15,6 @@
    ![](https://komarev.com/ghpvc/?username=EleazarBT&color=blue)
 <br>
 
-<br>
-
 ### 🔨 Languages and Tools:
 
 <div>

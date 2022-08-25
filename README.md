@@ -17,6 +17,7 @@
 
 ### 🔨 Languages and Tools:
 
+<div>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"> <img align="left" alt="C++" height ="30px" src="https://raw.githubusercontent.com/EleazarBT/EleazarBT/main/img/icons/c%2B%2B.svg"> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="30px" src="https://raw.githubusercontent.com/EleazarBT/EleazarBT/main/img/icons/python.svg"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C#" height ="30px" src="https://raw.githubusercontent.com/EleazarBT/EleazarBT/main/img/icons/c%23.svg"> </a>
@@ -43,9 +44,8 @@
 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height ="30px" src="https://raw.githubusercontent.com/EleazarBT/EleazarBT/main/img/icons/Git_icon.svg"> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Figma" height ="30px" src="https://raw.githubusercontent.com/EleazarBT/EleazarBT/main/img/icons/figma.svg"> </a>
+</div>
 
-
-<br>
 <br>
 
 

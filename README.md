@@ -10,7 +10,6 @@
 - 🌱 &nbsp; I’m currently learning Android Mobile Development; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/EleazarBT?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/eleazar-braco-terry-1b043b1ab/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com)
       
 
 <br>
